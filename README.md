@@ -13,7 +13,7 @@ I’m currently 2nd year btech cse student working on Web development projects t
 ![](https://streak-stats.demolab.com?user=Abhishekk756&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekk756&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekk756&theme=merko&hide_border=false" alt="profile-radme-generator" />
+![]<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekk756&theme=merko&hide_border=false" alt="profile-radme-generator" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
